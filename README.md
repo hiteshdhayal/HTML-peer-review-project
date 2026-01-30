@@ -67,7 +67,7 @@ Developed with ⚡ by **Hitesh Dhayal**.
 
 Inspired by the synthwave movement, retro-futurism, and the "Chai Code" bootcamp vibes.
 
----
+--
 
 ### 📜 License
 
